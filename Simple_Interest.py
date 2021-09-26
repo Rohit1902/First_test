@@ -8,4 +8,4 @@ p=p+sInterest
 print("The simple Interest is :{0}\nThe new amount is : {1} ".format(sInterest,p))
  #today i am learning git. I made some changes to the previous file.
  #I also did a factorial program using loops
- # I learnt what OSI is
+ 
